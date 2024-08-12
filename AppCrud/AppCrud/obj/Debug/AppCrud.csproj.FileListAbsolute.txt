@@ -1,0 +1,15 @@
+D:\AplicacionCrud\AppCrud\AppCrud\bin\Debug\AppCrud.exe.config
+D:\AplicacionCrud\AppCrud\AppCrud\bin\Debug\AppCrud.exe
+D:\AplicacionCrud\AppCrud\AppCrud\bin\Debug\AppCrud.pdb
+D:\AplicacionCrud\AppCrud\AppCrud\obj\Debug\AppCrud.csproj.AssemblyReference.cache
+D:\AplicacionCrud\AppCrud\AppCrud\obj\Debug\MainWindow.g.cs
+D:\AplicacionCrud\AppCrud\AppCrud\obj\Debug\App.g.cs
+D:\AplicacionCrud\AppCrud\AppCrud\obj\Debug\AppCrud_MarkupCompile.cache
+D:\AplicacionCrud\AppCrud\AppCrud\obj\Debug\AppCrud_MarkupCompile.lref
+D:\AplicacionCrud\AppCrud\AppCrud\obj\Debug\MainWindow.baml
+D:\AplicacionCrud\AppCrud\AppCrud\obj\Debug\AppCrud.g.resources
+D:\AplicacionCrud\AppCrud\AppCrud\obj\Debug\AppCrud.Properties.Resources.resources
+D:\AplicacionCrud\AppCrud\AppCrud\obj\Debug\AppCrud.csproj.GenerateResource.cache
+D:\AplicacionCrud\AppCrud\AppCrud\obj\Debug\AppCrud.csproj.CoreCompileInputs.cache
+D:\AplicacionCrud\AppCrud\AppCrud\obj\Debug\AppCrud.exe
+D:\AplicacionCrud\AppCrud\AppCrud\obj\Debug\AppCrud.pdb
